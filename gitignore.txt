@@ -1,0 +1,23 @@
+# Datasets (Excluded due to GitHub 100MB file size limit)
+*.csv
+MediPredict_Cleaned_Data (1).csv
+MediPredict_Hospital_1_1M_Raw.csv
+
+# Python / Jupyter artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+
+# IDE & System files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
