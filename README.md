@@ -62,12 +62,6 @@ Open `FinalProject - NTI.pbix` using **Microsoft Power BI Desktop** to explore i
 
 ---
 
-## 📊 Model Workflow
-
-![Model Workflow](How%20Model%20Work.png)
-
----
-
 ## 🛠️ Built With
 
 - **Python 3.10+** (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn)
