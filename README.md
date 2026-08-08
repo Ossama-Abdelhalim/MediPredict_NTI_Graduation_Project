@@ -32,13 +32,7 @@ MediPredict_NTI_Graduation_Project/
 
 ### 1. Prerequisites & Installation
 
-Clone the repository and install the required dependencies:
-
-```bash
-git clone https://github.com/Abo0wael/MediPredict_NTI_Graduation_Project.git
-cd MediPredict_NTI_Graduation_Project
-pip install -r requirements.txt
-```
+Download the PowerBI File from the drive link in the "PowerBI" text file up
 
 ### 2. Dataset Setup
 
