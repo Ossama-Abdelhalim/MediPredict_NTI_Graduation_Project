@@ -58,7 +58,7 @@ Open `FinalProject - NTI.pbix` using **Microsoft Power BI Desktop** to explore i
 
 ## 📊 Model Workflow
 
-![Model Workflow](How%20Model%20Work.png)
+![Model Workflow](How%20the%20Model%20works?.png)
 
 ---
 
